@@ -12,7 +12,7 @@ Every sound has five recordings, so a repeated hit does not sound the same every
 
 ## What was changed
 
-- Five recordings per sound were picked from the pack. Toms, kick, cymbals, hi-hat and cowbell: five recordings of the same hit. Snare: the pack has one recording per loudness level, so the five are neighbouring levels, and files 2 to 5 were set to the loudness of the first file.
+- Five recordings per sound were picked from the pack. Toms, kick, cymbals, hi-hat and cowbell: five recordings of the same hit. Snare: the pack has one recording per loudness level, so the five are neighbouring levels. For every sound, files 2 to 5 were set to the loudness of the first file.
 - Snare, toms and kick: the pack stores one hit as several microphone recordings. These were added together into one stereo file. The snare uses the snare, kick, overhead and mid microphones. The toms and the kick use all positions of the pack's default preset, with the tuning that preset gives toms 3 and 4.
 - All files: the volume was changed, silence was trimmed from the start and the end, and the result was saved as mp3. The crashes and the open hi-hat are cut at 8 seconds with a fade. The names in the first table also cover the other four files of each sound (`snare_2.mp3`, `crash2_3.mp3`).
 
